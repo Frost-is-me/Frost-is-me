@@ -2,7 +2,7 @@
 **Full-Stack Developer | Computer Engineering Student**
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Murtada_Najm-0077B5?logo=linkedin)](https://www.linkedin.com/in/murtada-najm-259766313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
- [![Email](https://img.shields.io/badge/Email-murtada.najm99@gmail.com-D14836?logo=gmail)](mailto:murtada.najm99@gmail.com)
+[![Email](https://img.shields.io/badge/Email-murtada.najm99@gmail.com-D14836?logo=gmail)](mailto:murtada.najm99@gmail.com)
  [![Location](https://img.shields.io/badge/Location-Baghdad,_Iraq-008000?logo=location)]()
 
 ---

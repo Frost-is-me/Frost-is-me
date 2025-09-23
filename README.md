@@ -1,20 +1,20 @@
 # 👋 Hi, I'm Murtada Najm
 **Full-Stack Developer | Computer Engineering Student**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Murtada_Najm-0077B5?logo=linkedin)](https://www.linkedin.com/in/murtada-najm-259766313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-[![Email](https://img.shields.io/badge/Email-murtada.najm99@gmail.com-D14836?logo=gmail)](mailto:murtada.najm99@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Baghdad,_Iraq-008000?logo=location)]()
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Murtada_Najm-0077B5?logo=linkedin)](https://www.linkedin.com/in/murtada-najm-259766313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+ [![Email](https://img.shields.io/badge/Email-murtada.najm99@gmail.com-D14836?logo=gmail)](mailto:murtada.najm99@gmail.com)
+ [![Location](https://img.shields.io/badge/Location-Baghdad,_Iraq-008000?logo=location)]()
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+ ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+ ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
+ ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+ ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+ ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
 ### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)

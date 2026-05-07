@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Murtada_Najm-0077B5?logo=linkedin)](https://www.linkedin.com/in/murtada-najm-259766313)
 [![Email](https://img.shields.io/badge/Email-murtada.najm99@gmail.com-D14836?logo=gmail)](mailto:murtada.najm99@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Baghdad,_Iraq-008000?logo=location)]()
-[![Portfolio Website](https://img.shields.io/badge/Website-Portfolio-4CAF50?logo=googlechrome)](#)
+[![Portfolio Website](https://img.shields.io/badge/Website-Portfolio-4CAF50?logo=googlechrome)](https://frost-is-me.github.io/My-Protfolio/)
 
 ---
 
@@ -56,26 +56,9 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Frost-is-me&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Murtada's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frost-is-me&layout=compact&theme=radical&border_radius=10" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Frost-is-me&theme=radical&border_radius=10" alt="GitHub Streak" width="97%" />
-</p>
-
----
-
 ## 📚 Education & Certifications
 
 * **Bachelor in Computer Engineering** - Al-Esraa University | Baghdad, Iraq (Expected 2027)
 * **IBM Full-Stack Software Developer Professional Certificate** - Coursera (2025)
 
 ---
-
-## 💡 Currently Learning
-* Advanced Microservices Architecture
-* iOS Development with Swift

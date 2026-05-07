@@ -56,15 +56,17 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Frost-is-me&show_icons=true&theme=radical&hide_title=true" alt="Murtada's GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Frost-is-me&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Murtada's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frost-is-me&layout=compact&theme=radical&border_radius=10" alt="Top Languages" width="48%" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frost-is-me&layout=compact&theme=radical&hide_title=true" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Frost-is-me&theme=radical&border_radius=10" alt="GitHub Streak" width="97%" />
 </p>
+
 ---
 
 ## 📚 Education & Certifications
